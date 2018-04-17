@@ -11,6 +11,7 @@ public class Runner {
             testedList1.add(i);
         }
 
+
         for (int i = 0; i < testedList.size(); i++) {
             System.out.println("index: " + i + ", data: " + testedList.get(i));
         }
