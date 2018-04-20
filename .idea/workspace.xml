@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5780cfa9-e8f5-46c8-936d-c8818eb40e57" name="Default" comment="" />
+    <list default="true" id="5780cfa9-e8f5-46c8-936d-c8818eb40e57" name="Default" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/book/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/book/AnimalTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/book/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/book/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/book/MyAnimalList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/Box/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/Box/BoxWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/Box/ColorBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/Box/DemoBoxWeigth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/Box/DemoShipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/Box/DemoSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/Box/RefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/Box/Shipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/SimpleInheritance/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/SimpleInheritance/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/SimpleInheritance/SimpleInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/callingcons/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/callingcons/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/callingcons/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/callingcons/CallingCons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/dispach/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/dispach/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/dispach/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/dispach/Dispach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/findareas/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/findareas/FindAreas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/findareas/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/findareas/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/override/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/override/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/override/Override.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/usesuper/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/usesuper/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/usesuper/UseSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/task/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/task/Rowboat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/task/Sailboat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/task/TestBoats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/olebas/stepic/lessons/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/olebas/stepic/lessons/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/olebas/stepic/tasks/BooleanExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/olebas/stepic/tasks/BooleanExpTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HFjava/ua/olebas/prometheus/tasks/linkedlist/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HFjava/ua/olebas/prometheus/tasks/linkedlist/Runner.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,121 +57,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DotComBust.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/olebas/game/dotcombust/main/DotComBust.java">
+      <file leaf-file-name="A.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/dispach/A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="832">
-              <caret line="52" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
+            <state relative-caret-position="32">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/olebas/game/dotcombust/main/GameHelper.java">
+      <file leaf-file-name="Figure.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/findareas/Figure.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="592">
-              <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+            <state relative-caret-position="192">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/findareas/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#136#137#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinarySearch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/task/BinarySearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Point.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/olebas/prometheus/lessons/Point.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Box.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/olebas/prometheus/lessons/Box.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-              <folding>
-                <element signature="e#578#579#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BoxDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/olebas/prometheus/lessons/BoxDemo.java">
+      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/findareas/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/olebas/prometheus/lessons/A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/olebas/prometheus/tasks/linkedlist/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               <folding>
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ua/olebas/prometheus/tasks/linkedlist/LinkedList.java">
+      <file leaf-file-name="FindAreas.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/findareas/FindAreas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-              <folding>
-                <element signature="e#471#472#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#1106#1107#0" expanded="true" />
-                <element signature="e#1133#1134#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="272">
+              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Runner.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ua/olebas/prometheus/tasks/linkedlist/Runner.java">
+      <file leaf-file-name="B.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/dispach/B.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="64">
+              <caret line="5" column="57" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dispach.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/dispach/Dispach.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -146,46 +143,74 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/task/DooBee.java" />
-        <option value="$PROJECT_DIR$/src/com/task/PhraseOMatic.java" />
-        <option value="$PROJECT_DIR$/src/com/task/Shuffle1.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/game/dotcombust/main/SimpleDotComTestDrive.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/game/dotcombust/test/SimpleDotComTestDrive.java" />
-        <option value="$PROJECT_DIR$/src/com/task/MultiFor.java" />
-        <option value="$PROJECT_DIR$/src/com/task/MixFor5.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/game/dotcombust/main/SimpleDotCom.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/game/dotcombust/main/SimpleDotComGame.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/game/dotcombust/main/DotCom.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/game/dotcombust/main/DotComBust.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/game/dotcombust/main/GameHelper.java" />
-        <option value="$PROJECT_DIR$/src/com/task/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/ua/olebas/prometheus/lessons/Point.java" />
-        <option value="$PROJECT_DIR$/src/ua/olebas/prometheus/lessons/Box.java" />
-        <option value="$PROJECT_DIR$/src/ua/olebas/prometheus/lessons/BoxDemo.java" />
         <option value="$PROJECT_DIR$/src/ua/olebas/prometheus/lessons/BicycleDemo.java" />
         <option value="$PROJECT_DIR$/src/ua/olebas/prometheus/lessons/Bicycle.java" />
         <option value="$PROJECT_DIR$/src/ua/olebas/prometheus/tasks/Node.java" />
         <option value="$PROJECT_DIR$/src/ua/olebas/prometheus/tasks/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/ua/olebas/prometheus/tasks/linkedlist/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/ua/olebas/prometheus/tasks/linkedlist/Runner.java" />
+        <option value="$PROJECT_DIR$/src/ua/olebas/stepic/lessons/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/ua/olebas/stepic/lessons/Quiz.java" />
+        <option value="$PROJECT_DIR$/src/ua/olebas/stepic/tasks/BooleanExpTest.java" />
+        <option value="$PROJECT_DIR$/src/ua/olebas/stepic/tasks/BooleanExp.java" />
+        <option value="$PROJECT_DIR$/src/com/task/Rowboat.java" />
+        <option value="$PROJECT_DIR$/src/com/task/Sailboat.java" />
+        <option value="$PROJECT_DIR$/src/com/task/TestBoats.java" />
+        <option value="$PROJECT_DIR$/src/com/task/Boat.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/book/MyDogList.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/book/Animal.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/book/MyAnimalList.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/book/Dog.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/book/Cat.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/book/AnimalTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/A.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/B.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/SimpleInheritance.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/A1/SimpleInheritance.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/A2/Access.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/Box/DemoBoxWeigth.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/Box/RefDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/Box/Box.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/Box/BoxWeight.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/Box/DemoSuper.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/Box/ColorBox.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/A2/A.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/A2/B.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/A2/UseSuper.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/Box/Shipment.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/Box/DemoShipment.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/callingcons/A.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/callingcons/B.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/callingcons/C.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/callingcons/CallingCons.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/override/A.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/override/B.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/override/Override.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/dispach/A.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/dispach/B.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/dispach/C.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/dispach/Dispach.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/findareas/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/findareas/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/findareas/Figure.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/findareas/FindAreas.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-82" />
-    <option name="y" value="43" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="1910" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,54 +234,42 @@
               <item name="HFjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dotcombust" type="462c0819:PsiDirectoryNode" />
+              <item name="olebas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HFjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="HFjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dotcombust" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="olebas" type="462c0819:PsiDirectoryNode" />
+              <item name="shildt" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HFjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="HFjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HFjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HFjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="prometheus" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HFjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HFjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="prometheus" type="462c0819:PsiDirectoryNode" />
-              <item name="lessons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HFjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HFjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="prometheus" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
+              <item name="olebas" type="462c0819:PsiDirectoryNode" />
+              <item name="shildt" type="462c0819:PsiDirectoryNode" />
+              <item name="findareas" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-pft" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test.sos-credit" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.olebas.book" />
       <recent name="com.olebas.game.dotcombust.main" />
     </key>
   </component>
@@ -272,58 +285,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Runner">
-    <configuration name="BicycleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.olebas.prometheus.lessons.BicycleDemo" />
+  <component name="RunManager" selected="Application.FindAreas">
+    <configuration name="CallingCons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.callingcons.CallingCons" />
       <module name="HFjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.olebas.prometheus.lessons.*" />
+          <option name="PATTERN" value="com.olebas.shildt.callingcons.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.task.BinarySearch" />
+    <configuration name="DemoShipment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.Box.DemoShipment" />
       <module name="HFjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.task.*" />
+          <option name="PATTERN" value="com.olebas.shildt.Box.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="BoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.olebas.prometheus.lessons.BoxDemo" />
+    <configuration name="Dispach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.dispach.Dispach" />
       <module name="HFjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.olebas.prometheus.lessons.*" />
+          <option name="PATTERN" value="com.olebas.shildt.dispach.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.olebas.prometheus.lessons.Main" />
+    <configuration name="FindAreas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.findareas.FindAreas" />
       <module name="HFjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.olebas.prometheus.lessons.*" />
+          <option name="PATTERN" value="com.olebas.shildt.findareas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.olebas.prometheus.tasks.linkedlist.Runner" />
+    <configuration name="Override" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.override.Override" />
       <module name="HFjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.olebas.prometheus.tasks.linkedlist.*" />
+          <option name="PATTERN" value="com.olebas.shildt.override.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -370,19 +383,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.BinarySearch" />
-      <item itemvalue="Application.BoxDemo" />
-      <item itemvalue="Application.BicycleDemo" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Runner" />
+      <item itemvalue="Application.DemoShipment" />
+      <item itemvalue="Application.CallingCons" />
+      <item itemvalue="Application.Override" />
+      <item itemvalue="Application.Dispach" />
+      <item itemvalue="Application.FindAreas" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BicycleDemo" />
-        <item itemvalue="Application.BoxDemo" />
-        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.FindAreas" />
+        <item itemvalue="Application.Dispach" />
+        <item itemvalue="Application.Override" />
+        <item itemvalue="Application.CallingCons" />
+        <item itemvalue="Application.DemoShipment" />
       </list>
     </recent_temporary>
   </component>
@@ -397,31 +410,54 @@
       <option name="presentableId" value="Default" />
       <updated>1522941162417</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1523954786331</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523954786331</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1523954997005</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1523954997005</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1523955226971</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1523955226971</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1913" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32960895" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32842416" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.4" />
       <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29013255" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32960895" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19530201" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.39911634" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -433,215 +469,46 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/olebas/shildt/callingcons/A.java</url>
+          <line>4</line>
+          <properties class="com.olebas.shildt.callingcons.A" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/game/dotcombust/main/DotComBust.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="832">
-          <caret line="52" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/game/dotcombust/main/DotCom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/game/dotcombust/main/GameHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="832">
-          <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/task/DooBee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/task/PhraseOMatic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="109" selection-start-line="10" selection-start-column="109" selection-end-line="10" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/task/Shuffle1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/game/dotcombust/main/SimpleDotCom.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/game/dotcombust/test/SimpleDotComTestDrive.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/game/dotcombust/main/SimpleDotComGame.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/task/MultiFor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/game/dotcombust/main/GameHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/task/MixFor5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/HFjava/com/task/DooBee.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/task/DooBee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/task/PhraseOMatic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="109" selection-start-line="10" selection-start-column="109" selection-end-line="10" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/game/dotcombust/test/SimpleDotComTestDrive.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/task/MultiFor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/task/MixFor5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/game/dotcombust/main/SimpleDotCom.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/game/dotcombust/main/SimpleDotComGame.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/game/dotcombust/test/SimpleDotComTestDrive.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/task/Shuffle1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/game/dotcombust/main/DotCom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.254/GameHelper.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/game/dotcombust/main/DotComBust.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="832">
-          <caret line="52" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/game/dotcombust/main/GameHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/task/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/olebas/prometheus/lessons/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/olebas/prometheus/lessons/Box.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-          <folding>
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/olebas/prometheus/lessons/BoxDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/olebas/prometheus/lessons/BicycleDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ua/olebas/prometheus/lessons/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
           <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
-          <folding>
-            <element signature="e#10065#10066#0" expanded="true" />
-            <element signature="e#10148#10149#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/olebas/stepic/tasks.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.069/Application.java" />
+    <entry file="file://$PROJECT_DIR$/src/ua/olebas/stepic/lessons/Quiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/olebas/stepic/lessons/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -649,36 +516,314 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/olebas/prometheus/tasks/linkedlist/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#1106#1107#0" expanded="true" />
-            <element signature="e#1133#1134#0" expanded="true" />
-          </folding>
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ua/olebas/prometheus/tasks/linkedlist/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="192">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/olebas/stepic/tasks/BooleanExp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ua/olebas/stepic/tasks/BooleanExpTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/task/Rowboat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.328/MiniMiniMusicApp.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/book/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/book/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/book/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/book/AnimalTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/book/MyAnimalList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/task/Boat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/task/Sailboat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/task/TestBoats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/SimpleInheritance/SimpleInheritance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/SimpleInheritance/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/A2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/A2/Access.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/SimpleInheritance/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/Box/DemoBoxWeigth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/Box/RefDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/Box/DemoSuper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/Box/ColorBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/usesuper/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/usesuper/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/usesuper/UseSuper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/Box/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/Box/BoxWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/Box/Shipment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/Box/DemoShipment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="71" selection-start-line="8" selection-end-line="11" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/callingcons/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#66#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/callingcons/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/callingcons/C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/callingcons/CallingCons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/override/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/override/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/override/Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/dispach/C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/dispach/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/dispach/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/dispach/Dispach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/findareas/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/findareas/Figure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/findareas/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/findareas/FindAreas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
         </state>
       </provider>
     </entry>
