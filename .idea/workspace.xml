@@ -2,26 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5780cfa9-e8f5-46c8-936d-c8818eb40e57" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/interf/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/interf/AnotherClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/interf/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/interf/Callback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/interf/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/interf/DynStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/interf/FixedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/interf/IFTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/interf/IFTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/interf/IFTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/interf/Incomplete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/interf/IntStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/interf/NestedIFDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/interf/TestIface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/interf/TestIface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/makingdes/AskMe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/makingdes/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/makingdes/SharedConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/DefaultMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/MyIF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/MyIFImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/ifextend/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/ifextend/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/ifextend/IFExtend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/ifextend/MyClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/olebas/shildt/findareas/FindAreas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/olebas/shildt/findareas/FindAreas.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,69 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NestedIFDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/NestedIFDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/IntStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FixedStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/FixedStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IFTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/IFTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="24" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DynStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/DynStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IFTest2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/IFTest2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IFTest3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/IFTest3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SharedConstants.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/makingdes/SharedConstants.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -114,11 +39,90 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AskMe.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AskMe.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/makingdes/AskMe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
+            <state relative-caret-position="480">
               <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/ifextend/A.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/ifextend/B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/ifextend/MyClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
+              <folding>
+                <element signature="e#98#99#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyIF.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/MyIF.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+              <folding>
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyIFImp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/MyIFImp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+              <folding>
+                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultMethodDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/DefaultMethodDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IFExtend.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/ifextend/IFExtend.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -139,13 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/olebas/book/AnimalTestDrive.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/A.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/B.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/SimpleInheritance.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/A1/SimpleInheritance.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/A2/Access.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/Box/DemoBoxWeigth.java" />
         <option value="$PROJECT_DIR$/src/com/olebas/shildt/Box/RefDemo.java" />
         <option value="$PROJECT_DIR$/src/com/olebas/shildt/Box/Box.java" />
         <option value="$PROJECT_DIR$/src/com/olebas/shildt/Box/BoxWeight.java" />
@@ -190,6 +187,13 @@
         <option value="$PROJECT_DIR$/src/com/olebas/shildt/makingdes/SharedConstants.java" />
         <option value="$PROJECT_DIR$/src/com/olebas/shildt/makingdes/Question.java" />
         <option value="$PROJECT_DIR$/src/com/olebas/shildt/makingdes/AskMe.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/ifextend/A.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/ifextend/B.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/ifextend/IFExtend.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/ifextend/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/MyIF.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/MyIFImp.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/DefaultMethodDemo.java" />
       </list>
     </option>
   </component>
@@ -218,62 +222,6 @@
             <path>
               <item name="HFjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="HFjava" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HFjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HFjava" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HFjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HFjava" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="HFjava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HFjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HFjava" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="HFjava" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HFjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HFjava" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="HFjava" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="olebas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HFjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HFjava" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="HFjava" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="olebas" type="462c0819:PsiDirectoryNode" />
-              <item name="shildt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HFjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HFjava" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="HFjava" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="olebas" type="462c0819:PsiDirectoryNode" />
-              <item name="shildt" type="462c0819:PsiDirectoryNode" />
-              <item name="interf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HFjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HFjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -304,7 +252,7 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="olebas" type="462c0819:PsiDirectoryNode" />
               <item name="shildt" type="462c0819:PsiDirectoryNode" />
-              <item name="makingdes" type="462c0819:PsiDirectoryNode" />
+              <item name="defaultmethod" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -347,7 +295,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AskMe">
+  <component name="RunManager" selected="Application.DefaultMethodDemo">
     <configuration name="AskMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.makingdes.AskMe" />
       <module name="HFjava" />
@@ -359,13 +307,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="IFTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.interf.IFTest" />
+    <configuration name="DefaultMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.defaultmethod.DefaultMethodDemo" />
       <module name="HFjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.olebas.shildt.interf.*" />
+          <option name="PATTERN" value="com.olebas.shildt.defaultmethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="IFExtend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.ifextend.IFExtend" />
+      <module name="HFjava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.olebas.shildt.ifextend.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -383,17 +342,6 @@
     </configuration>
     <configuration name="IFTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.interf.IFTest3" />
-      <module name="HFjava" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.olebas.shildt.interf.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="NestedIFDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.interf.NestedIFDemo" />
       <module name="HFjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -445,19 +393,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.NestedIFDemo" />
-      <item itemvalue="Application.IFTest" />
       <item itemvalue="Application.IFTest2" />
       <item itemvalue="Application.IFTest3" />
       <item itemvalue="Application.AskMe" />
+      <item itemvalue="Application.IFExtend" />
+      <item itemvalue="Application.DefaultMethodDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DefaultMethodDemo" />
+        <item itemvalue="Application.IFExtend" />
         <item itemvalue="Application.AskMe" />
         <item itemvalue="Application.IFTest3" />
         <item itemvalue="Application.IFTest2" />
-        <item itemvalue="Application.IFTest" />
-        <item itemvalue="Application.NestedIFDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -500,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524226201555</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add data">
+      <created>1524491421737</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1524491421737</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -509,18 +464,18 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32842416" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32842416" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.29013255" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.29013255" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.29013255" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32960895" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19530201" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19530201" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -541,7 +496,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="add FindAreas" />
-    <option name="LAST_COMMIT_MESSAGE" value="add FindAreas" />
+    <MESSAGE value="add data" />
+    <option name="LAST_COMMIT_MESSAGE" value="add data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -559,55 +515,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/SimpleInheritance/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/Box/DemoBoxWeigth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/Box/RefDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/Box/DemoSuper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/Box/ColorBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/usesuper/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/usesuper/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/usesuper/UseSuper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -939,8 +846,73 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/makingdes/AskMe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
+        <state relative-caret-position="480">
           <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/ifextend/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/ifextend/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/ifextend/IFExtend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/ifextend/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/MyIF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/MyIFImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/DefaultMethodDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
