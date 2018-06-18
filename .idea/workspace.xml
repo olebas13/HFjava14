@@ -2,13 +2,87 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5780cfa9-e8f5-46c8-936d-c8818eb40e57" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/DefaultMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/MyIF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/MyIFImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/ifextend/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/ifextend/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/ifextend/IFExtend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/ifextend/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/book/MiniMiniMusicApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/book/MiniMusicCmdLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/book/MyDrawPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/book/SimpleAnimation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/book/SimpleGGui3C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/book/SimpleGui1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/book/SimpleGui1B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/book/drawpanels/MyDrawPanel1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/book/drawpanels/MyDrawPanel2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/book/drawpanels/bart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/applets/RunApp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/applets/SimpleApplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/brread/BRRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/brread/BRReadLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/brread/ShowFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/brread/TEST.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/brread/TinyEdit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/brread/WriteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/BoundedWildcard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/BoundsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/Coords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/FourD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/Gen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/GenCons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/GenConsdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/GenDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/GenIFDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/GenMethDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/NonGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/NonGenDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/SimpGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/Stats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/ThreeD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/TwoD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/TwoGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/collection/WildcardDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/enums/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/enums/EnumDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/enums/EnumDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/enums/EnumDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/enums1/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/enums1/EnumDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/exceptions/Exc0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/exceptions/Exc1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/exceptions/Exc2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/exceptions/FinallyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/exceptions/HandleError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/exceptions/MethNestTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/exceptions/MultippleCatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/exceptions/NestTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/exceptions/SuperSubCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/exceptions/ThrowDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/exceptions/ThrowsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/lambda/BlockLambdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/lambda/BlockLambdaDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/lambda/DoubleNumericArrayFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/lambda/EmptyArrayException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/lambda/GenericFunctionalInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/lambda/LambdaAsArgumentsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/lambda/LambdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/lambda/LambdaDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/lambda/LambdaDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/lambda/LambdaExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/lambda/MyFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/lambda/MyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/lambda/MyStringOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/lambda/NumericFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/lambda/NumericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/lambda/NumericTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/lambda/SomeFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/lambda/StringFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/lambda/VarCapture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/threads/CurrentThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/threads/NewThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/threads/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/wrap/AutoBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/wrap/AutoBox2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/wrap/AutoBox3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/olebas/shildt/wrap/Wrap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,110 +93,103 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/HFjava$MiniMiniMusicApp.ic" NAME="MiniMiniMusicApp Coverage Results" MODIFIED="1524668468982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.olebas.book.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SharedConstants.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/makingdes/SharedConstants.java">
+      <file leaf-file-name="StringFunc.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/StringFunc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/makingdes/Question.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AskMe.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/makingdes/AskMe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/ifextend/A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="B.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/ifextend/B.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
+            <state relative-caret-position="90">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/ifextend/MyClass.java">
+      <file leaf-file-name="MyStringOps.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/MyStringOps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="6" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
+            <state relative-caret-position="198">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LambdaAsArgumentsDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/LambdaAsArgumentsDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="41" column="81" selection-start-line="41" selection-start-column="81" selection-end-line="41" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DoubleNumericArrayFunc.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/DoubleNumericArrayFunc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LambdaExceptionDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/LambdaExceptionDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="75" selection-start-line="21" selection-start-column="75" selection-end-line="21" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmptyArrayException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/EmptyArrayException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
               <folding>
-                <element signature="e#98#99#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyIF.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/MyIF.java">
+      <file leaf-file-name="MyFunc.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/MyFunc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-              <folding>
-                <element signature="e#128#129#0" expanded="true" />
-                <element signature="e#152#153#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="36">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyIFImp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/MyIFImp.java">
+      <file leaf-file-name="VarCapture.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/VarCapture.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-              <folding>
-                <element signature="e#113#114#0" expanded="true" />
-                <element signature="e#137#138#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="252">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultMethodDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/DefaultMethodDemo.java">
+      <file leaf-file-name="SomeFunc.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/SomeFunc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="54">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IFExtend.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/ifextend/IFExtend.java">
+      <file leaf-file-name="GenericFunctionalInterfaceDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/GenericFunctionalInterfaceDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            <state relative-caret-position="558">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -132,6 +199,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="HTML File" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -143,65 +212,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/Box/RefDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/Box/Box.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/Box/BoxWeight.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/Box/DemoSuper.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/Box/ColorBox.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/A2/A.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/A2/B.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/A2/UseSuper.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/Box/Shipment.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/Box/DemoShipment.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/callingcons/A.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/callingcons/B.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/callingcons/C.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/callingcons/CallingCons.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/override/A.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/override/B.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/override/Override.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/dispach/A.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/dispach/B.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/dispach/C.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/dispach/Dispach.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/findareas/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/findareas/Triangle.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/findareas/Figure.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/findareas/FindAreas.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/interf/Callback.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/interf/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/interf/TestIface.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/interf/AnotherClient.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/interf/TestIface2.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/interf/IncompleteTest.groovy" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/interf/Incomplete.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/interf/A.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/interf/B.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/interf/NestedIFDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/interf/IntStack.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/interf/FixedStack.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/interf/IFTest.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/interf/DynStack.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/interf/IFTest2.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/interf/IFTest3.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/makingdes/SharedConstants.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/makingdes/Question.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/makingdes/AskMe.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/ifextend/A.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/ifextend/B.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/ifextend/IFExtend.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/ifextend/MyClass.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/MyIF.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/MyIFImp.java" />
-        <option value="$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/DefaultMethodDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/wrap/AutoBox2.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/wrap/AutoBox3.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/brread/BRRead.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/brread/BRReadLines.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/brread/TinyEdit.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/brread/Writedemo.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/brread/WriteDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/brread/ShowFile.java" />
+        <option value="$PROJECT_DIR$/out/production/HFjava/com/olebas/shildt/brread/TEST.txt" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/brread/TEST.txt" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/applets/RunApp.html" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/applets/SimpleApplet.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/Gen.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/GenDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/NonGen.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/NonGenDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/TwoGen.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/SimpGen.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/BoundsDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/Stats.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/WildcardDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/TwoD.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/ThreeD.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/FourD.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/Coords.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/BoundedWildcard.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/GenMethDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/GenCons.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/GenConsdemo.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/MinMax.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/GenIFDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/collection/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/lambda/MyNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/lambda/LambdaDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/lambda/NumericTest.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/lambda/LambdaDemo2.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/lambda/NumericTest2.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/lambda/LambdaDemo3.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/lambda/NumericFunc.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/lambda/BlockLambdaDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/lambda/StringFunc.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/lambda/BlockLambdaDemo2.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/lambda/SomeFunc.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/lambda/GenericFunctionalInterfaceDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/lambda/LambdaAsArgumentsDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/lambda/DoubleNumericArrayFunc.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/lambda/EmptyArrayException.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/lambda/LambdaExceptionDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/lambda/MyFunc.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/lambda/VarCapture.java" />
+        <option value="$PROJECT_DIR$/src/com/olebas/shildt/lambda/MyStringOps.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1910" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -212,6 +281,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,6 +294,17 @@
             <path>
               <item name="HFjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="HFjava" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HFjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HFjava" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HFjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HFjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -252,35 +335,41 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="olebas" type="462c0819:PsiDirectoryNode" />
               <item name="shildt" type="462c0819:PsiDirectoryNode" />
-              <item name="defaultmethod" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HFjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test.sos-credit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.olebas.shildt.interf" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.olebas.shildt.lambda" />
+      <recent name="com.olebas.book" />
+      <recent name="com.olebas.game.dotcombust.main" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="groovy.util.GroovyTestCase" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.olebas.book" />
-      <recent name="com.olebas.game.dotcombust.main" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ON_PC\Desktop\HFjava\src\com\olebas\book\drawpanels" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -295,58 +384,69 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DefaultMethodDemo">
-    <configuration name="AskMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.makingdes.AskMe" />
+  <component name="RunManager" selected="Application.VarCapture">
+    <configuration name="BlockLambdaDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.lambda.BlockLambdaDemo2" />
       <module name="HFjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.olebas.shildt.makingdes.*" />
+          <option name="PATTERN" value="com.olebas.shildt.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="DefaultMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.defaultmethod.DefaultMethodDemo" />
+    <configuration name="GenericFunctionalInterfaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.lambda.GenericFunctionalInterfaceDemo" />
       <module name="HFjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.olebas.shildt.defaultmethod.*" />
+          <option name="PATTERN" value="com.olebas.shildt.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="IFExtend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.ifextend.IFExtend" />
+    <configuration name="LambdaAsArgumentsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.lambda.LambdaAsArgumentsDemo" />
       <module name="HFjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.olebas.shildt.ifextend.*" />
+          <option name="PATTERN" value="com.olebas.shildt.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="IFTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.interf.IFTest2" />
+    <configuration name="LambdaDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.lambda.LambdaDemo2" />
       <module name="HFjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.olebas.shildt.interf.*" />
+          <option name="PATTERN" value="com.olebas.shildt.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="IFTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.interf.IFTest3" />
+    <configuration name="LambdaExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.lambda.LambdaExceptionDemo" />
       <module name="HFjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.olebas.shildt.interf.*" />
+          <option name="PATTERN" value="com.olebas.shildt.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="VarCapture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.olebas.shildt.lambda.VarCapture" />
+      <module name="HFjava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.olebas.shildt.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -393,19 +493,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.IFTest2" />
-      <item itemvalue="Application.IFTest3" />
-      <item itemvalue="Application.AskMe" />
-      <item itemvalue="Application.IFExtend" />
-      <item itemvalue="Application.DefaultMethodDemo" />
+      <item itemvalue="Application.BlockLambdaDemo2" />
+      <item itemvalue="Application.GenericFunctionalInterfaceDemo" />
+      <item itemvalue="Application.LambdaAsArgumentsDemo" />
+      <item itemvalue="Application.LambdaExceptionDemo" />
+      <item itemvalue="Application.VarCapture" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DefaultMethodDemo" />
-        <item itemvalue="Application.IFExtend" />
-        <item itemvalue="Application.AskMe" />
-        <item itemvalue="Application.IFTest3" />
-        <item itemvalue="Application.IFTest2" />
+        <item itemvalue="Application.VarCapture" />
+        <item itemvalue="Application.LambdaExceptionDemo" />
+        <item itemvalue="Application.LambdaAsArgumentsDemo" />
+        <item itemvalue="Application.GenericFunctionalInterfaceDemo" />
+        <item itemvalue="Application.BlockLambdaDemo2" />
       </list>
     </recent_temporary>
   </component>
@@ -455,27 +555,33 @@
       <option name="project" value="LOCAL" />
       <updated>1524491421737</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add interfaces">
+      <created>1524492947832</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1524492947832</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32842416" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.29013255" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.29013255" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.27821228" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32842416" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19530201" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18923241" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -483,11 +589,13 @@
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.39911634" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3295302" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.36759776" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -497,422 +605,365 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="add FindAreas" />
     <MESSAGE value="add data" />
-    <option name="LAST_COMMIT_MESSAGE" value="add data" />
+    <MESSAGE value="add interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="add interfaces" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/olebas/shildt/callingcons/A.java</url>
-          <line>4</line>
-          <properties class="com.olebas.shildt.callingcons.A" method="&lt;init&gt;">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="17" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/usesuper/UseSuper.java">
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/wrap/AutoBox3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="378">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/Box/Box.java">
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/brread/BRRead.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="252">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/Box/BoxWeight.java">
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/brread/BRReadLines.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        <state relative-caret-position="252">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/Box/Shipment.java">
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/brread/TinyEdit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        <state relative-caret-position="252">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/Box/DemoShipment.java">
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/brread/WriteDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="71" selection-start-line="8" selection-end-line="11" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/callingcons/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#66#67#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/callingcons/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/callingcons/C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/callingcons/CallingCons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/override/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/override/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/override/Override.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/dispach/C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
-          <folding>
-            <element signature="e#82#83#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/dispach/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/findareas/Figure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="55" column="22" lean-forward="true" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Override.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="50" column="11" lean-forward="true" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/findareas/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/findareas/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="180">
           <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/findareas/FindAreas.java">
+    <entry file="file://$PROJECT_DIR$/out/production/HFjava/com/olebas/shildt/brread/TEST.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        <state>
+          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/System.java">
+    <entry file="file://$PROJECT_DIR$/out/production/HFjava/com/olebas/shildt/brread/ShowFile.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2512">
-          <caret line="63" column="10" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="10" />
+        <state relative-caret-position="-48" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/brread/TEST.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Object.java">
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/brread/ShowFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="291" column="44" lean-forward="true" selection-start-line="291" selection-start-column="44" selection-end-line="291" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/dispach/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="5" column="57" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/dispach/Dispach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/Callback.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/HFjava/com/olebas/shildt/interf/TestIface2.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#385#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/IncompleteTest.groovy">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/AnotherClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/TestIface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/TestIface2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/Incomplete.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/NestedIFDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/IntStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/FixedStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/IFTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/DynStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
+        <state relative-caret-position="378">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/IFTest2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/applets/RunApp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="18">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/interf/IFTest3.java">
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/applets/SimpleApplet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="108">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/makingdes/SharedConstants.java">
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/Gen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="270">
+          <caret line="15" column="74" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/makingdes/Question.java">
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/GenDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="324">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/makingdes/AskMe.java">
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/NonGen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        <state relative-caret-position="288">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/ifextend/A.java">
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/NonGenDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="414">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/ifextend/B.java">
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/TwoGen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
+        <state relative-caret-position="396">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/SimpGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/Stats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/BoundsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="62" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="13" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/WildcardDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/TwoD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/ThreeD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/FourD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/Coords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/BoundedWildcard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="96" selection-start-line="23" selection-start-column="96" selection-end-line="23" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/GenMethDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/GenCons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/GenConsdemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/MinMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/collection/GenIFDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/MyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/ifextend/IFExtend.java">
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/LambdaDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        <state relative-caret-position="270">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/ifextend/MyClass.java">
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/NumericTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/LambdaDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/NumericTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/LambdaDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="71" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/NumericFunc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/BlockLambdaDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/BlockLambdaDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/GenericFunctionalInterfaceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/SomeFunc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/LambdaAsArgumentsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="41" column="81" selection-start-line="41" selection-start-column="81" selection-end-line="41" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/DoubleNumericArrayFunc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/LambdaExceptionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="75" selection-start-line="21" selection-start-column="75" selection-end-line="21" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/EmptyArrayException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
           <folding>
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/MyIF.java">
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/MyFunc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="36">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/MyIFImp.java">
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/VarCapture.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="252">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/defaultmethod/DefaultMethodDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/StringFunc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/olebas/shildt/lambda/MyStringOps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
